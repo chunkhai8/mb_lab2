@@ -260,7 +260,7 @@ class _RegisterPageState extends State<RegisterPage> {
             shape: const RoundedRectangleBorder(
                 borderRadius: BorderRadius.all(Radius.circular(20.0))),
             title: const Text(
-              "Add this product",
+              "Registration",
               style: TextStyle(),
             ),
             content: const Text("Are you sure?", style: TextStyle()),
